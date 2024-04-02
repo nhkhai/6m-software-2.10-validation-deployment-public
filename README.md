@@ -1,1 +1,1 @@
-My practice app. 
+My practice app.
